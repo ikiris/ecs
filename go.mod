@@ -1,4 +1,4 @@
-module github.com/unitoftime/ecs
+module github.com/ikiris/ecs
 
 go 1.18
 
